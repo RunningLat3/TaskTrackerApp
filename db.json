@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Doctors Appointment",
+      "datetime": "2021-12-17T01:43",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "task": "Meeting at School",
+      "datetime": "2021-12-18T14:43",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "task": "Food Shopping",
+      "datetime": "2021-12-19T12:00",
+      "reminder": false
+    }
+  ]
+}
